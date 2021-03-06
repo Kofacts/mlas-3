@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="47" height="45" viewBox="0 0 47 45">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="47" height="45" transform="translate(2132 717)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-2132 -717)" clip-path="url(#clip-path)">
+    <g id="Google__G__Logo" transform="translate(2132.856 717)">
+      <path id="Path_1" data-name="Path 1" d="M50.525,27.934a25.968,25.968,0,0,0-.4-4.572H28.494v8.664H40.883A10.4,10.4,0,0,1,36.3,38.864v5.622h7.391c4.34-3.919,6.835-9.706,6.835-16.551Z" transform="translate(-5.557 -4.917)" fill="#4285f4"/>
+      <path id="Path_2" data-name="Path 2" d="M23.523,52.148a22.208,22.208,0,0,0,15.2-5.432l-7.391-5.622a13.92,13.92,0,0,1-7.8,2.149A13.7,13.7,0,0,1,10.654,33.96H3.026v5.8A22.992,22.992,0,0,0,23.523,52.148Z" transform="translate(-0.586 -7.148)" fill="#34a853"/>
+      <path id="Path_3" data-name="Path 3" d="M10.054,30.117a13.233,13.233,0,0,1,0-8.614v-5.8H2.435a22.135,22.135,0,0,0,0,20.205Z" transform="translate(0.005 -3.305)" fill="#fbbc04"/>
+      <path id="Path_4" data-name="Path 4" d="M23.523,8.9a12.6,12.6,0,0,1,8.8,3.373l6.549-6.424A22.283,22.283,0,0,0,23.523,0a22.984,22.984,0,0,0-20.5,12.4l7.619,5.8A13.693,13.693,0,0,1,23.523,8.9Z" transform="translate(-0.586 0.002)" fill="#ea4335"/>
+    </g>
+  </g>
+</svg>

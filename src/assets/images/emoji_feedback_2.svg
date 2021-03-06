@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="20" viewBox="0 0 152 20">
+  <g id="Group_33" data-name="Group 33" transform="translate(-2978 -5348)">
+    <g id="Group_29" data-name="Group 29">
+      <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(2978 5348)" fill="#fff" stroke="wheat" stroke-width="1.4">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9.3" fill="none"/>
+      </g>
+      <path id="Path_11" data-name="Path 11" d="M0,0A7.6,7.6,0,0,0,4.046,1.718,7.165,7.165,0,0,0,8,0" transform="translate(2984.5 5360.5)" fill="none" stroke="wheat" stroke-width="1"/>
+      <g id="Group_28" data-name="Group 28" transform="translate(1)">
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(2983 5355)" fill="#f7f7f7" stroke="wheat" stroke-width="1">
+          <circle cx="1" cy="1" r="1" stroke="none"/>
+          <circle cx="1" cy="1" r="0.5" fill="none"/>
+        </g>
+        <g id="Ellipse_6-2" data-name="Ellipse 6" transform="translate(2990 5355)" fill="#f7f7f7" stroke="wheat" stroke-width="1">
+          <circle cx="1" cy="1" r="1" stroke="none"/>
+          <circle cx="1" cy="1" r="0.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_29-2" data-name="Group 29" transform="translate(33)">
+      <g id="Ellipse_5-2" data-name="Ellipse 5" transform="translate(2978 5348)" fill="#fff" stroke="wheat" stroke-width="1.4">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9.3" fill="none"/>
+      </g>
+      <path id="Path_11-2" data-name="Path 11" d="M0,0A7.6,7.6,0,0,0,4.046,1.718,7.165,7.165,0,0,0,8,0" transform="translate(2992.5 5362.218) rotate(180)" fill="none" stroke="wheat" stroke-width="1"/>
+      <g id="Group_28-2" data-name="Group 28" transform="translate(1)">
+        <g id="Ellipse_6-3" data-name="Ellipse 6" transform="translate(2983 5355)" fill="#f7f7f7" stroke="wheat" stroke-width="1">
+          <circle cx="1" cy="1" r="1" stroke="none"/>
+          <circle cx="1" cy="1" r="0.5" fill="none"/>
+        </g>
+        <g id="Ellipse_6-4" data-name="Ellipse 6" transform="translate(2990 5355)" fill="#f7f7f7" stroke="wheat" stroke-width="1">
+          <circle cx="1" cy="1" r="1" stroke="none"/>
+          <circle cx="1" cy="1" r="0.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_29-3" data-name="Group 29" transform="translate(132)">
+      <g id="Group_37" data-name="Group 37">
+        <g id="Ellipse_5-3" data-name="Ellipse 5" transform="translate(2978 5348)" fill="#fff" stroke="wheat" stroke-width="1.4">
+          <circle cx="10" cy="10" r="10" stroke="none"/>
+          <circle cx="10" cy="10" r="9.3" fill="none"/>
+        </g>
+        <path id="Path_11-3" data-name="Path 11" d="M0,0,4.224-1.466,8,0" transform="translate(2984.5 5361.5)" fill="none" stroke="wheat" stroke-width="1"/>
+        <g id="Group_30" data-name="Group 30" transform="translate(-0.308)">
+          <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(2982.308 5355.199) rotate(-48)" fill="#fff" stroke="wheat" stroke-width="1">
+            <rect width="1" height="4" stroke="none"/>
+            <rect x="0.5" y="0.5" height="3" fill="none"/>
+          </g>
+          <g id="Rectangle_41-2" data-name="Rectangle 41" transform="translate(2992.833 5354.228) rotate(34)" fill="#fff" stroke="wheat" stroke-width="1">
+            <rect width="1" height="4" stroke="none"/>
+            <rect x="0.5" y="0.5" height="3" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_32" data-name="Group 32">
+      <g id="Ellipse_5-4" data-name="Ellipse 5" transform="translate(3044 5348)" fill="#fff" stroke="wheat" stroke-width="1.4">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9.3" fill="none"/>
+      </g>
+      <path id="Path_13" data-name="Path 13" d="M0,0A4.639,4.639,0,0,0,2.405.966,4.367,4.367,0,0,0,4.756,0" transform="translate(3052.256 5356.218) rotate(180)" fill="none" stroke="wheat" stroke-width="1"/>
+      <path id="Path_13-2" data-name="Path 13" d="M0,0A4.639,4.639,0,0,0,2.405.966,4.367,4.367,0,0,0,4.756,0" transform="translate(3061.256 5356.218) rotate(180)" fill="none" stroke="wheat" stroke-width="1"/>
+      <g id="Path_12" data-name="Path 12" transform="translate(3050 5359.548)" fill="#fff">
+        <path d="M 3.903220415115356 4.283201694488525 C 2.467552661895752 4.283201694488525 1.068723320960999 3.722211599349976 0.5000004172325134 3.463479518890381 L 0.5000004172325134 0.5000015497207642 L 7.508300304412842 0.5000015497207642 L 7.508300304412842 3.450982093811035 C 6.887497901916504 3.71008038520813 5.350547790527344 4.283201694488525 3.903220415115356 4.283201694488525 Z" stroke="none"/>
+        <path d="M 1.000000476837158 1.000001668930054 L 1.000000476837158 3.133711814880371 C 1.641269683837891 3.397199392318726 2.773653507232666 3.783201694488525 3.903220176696777 3.783201694488525 C 5.067481994628906 3.783201694488525 6.307863235473633 3.381793022155762 7.008300304412842 3.112805366516113 L 7.008300304412842 1.000001668930054 L 1.000000476837158 1.000001668930054 M 0 1.430511474609375e-06 L 8.00830078125 1.430511474609375e-06 L 8.00830078125 3.777571678161621 C 8.00830078125 3.777571678161621 5.905290603637695 4.783201694488525 3.903220176696777 4.783201694488525 C 1.901140213012695 4.783201694488525 0 3.777571678161621 0 3.777571678161621 L 0 1.430511474609375e-06 Z" stroke="none" fill="wheat"/>
+      </g>
+      <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(3050 5360)" fill="#fff" stroke="wheat" stroke-width="1">
+        <rect width="8" height="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="7" height="1" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_31" data-name="Group 31">
+      <g id="Group_29-4" data-name="Group 29" transform="translate(99)">
+        <g id="Ellipse_5-5" data-name="Ellipse 5" transform="translate(2978 5348)" fill="#fff" stroke="wheat" stroke-width="1.4">
+          <circle cx="10" cy="10" r="10" stroke="none"/>
+          <circle cx="10" cy="10" r="9.3" fill="none"/>
+        </g>
+        <path id="Path_11-4" data-name="Path 11" d="M0,0A7.6,7.6,0,0,0,4.046,1.718,7.165,7.165,0,0,0,8,0" transform="translate(2984.5 5360.5)" fill="none" stroke="wheat" stroke-width="1"/>
+      </g>
+      <path id="Path_14" data-name="Path 14" d="M0,0A4.639,4.639,0,0,0,2.405.966,4.367,4.367,0,0,0,4.756,0" transform="translate(3085.256 5356.218) rotate(180)" fill="none" stroke="wheat" stroke-width="1"/>
+      <path id="Path_15" data-name="Path 15" d="M0,0A4.639,4.639,0,0,0,2.405.966,4.367,4.367,0,0,0,4.756,0" transform="translate(3094.256 5356.218) rotate(180)" fill="none" stroke="wheat" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

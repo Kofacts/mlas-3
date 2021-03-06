@@ -1,0 +1,129 @@
+a {
+    text-decoration: none;
+    color: inherit !important;
+    position: relative;
+    cursor: pointer;
+
+    &.menulink {
+        font-size: 14px;
+        width: 100%;
+
+        &::after {
+            position: absolute;
+            content: '';
+            left: 0;
+            bottom: 0;
+            height: 3px;
+            width: 1px;
+            background: -webkit-linear-gradient(#92D197, #e277dd);
+            transform: translate(0px, 5px);
+            z-index: 1;
+            border-radius: 4px;
+            transition: width .5s cubic-bezier(0.075, 0.82, 0.165, 1);
+        }
+
+        &:hover {
+            font-family: $mediumFont;
+
+            &::after {
+                width: 100%;
+                transition: width .5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
+
+        }
+    }
+
+}
+
+.swal-icon--warning {
+    border-color: #92D197 !important;
+
+    .swal-icon--warning__dot,
+    .swal-icon--warning__body {
+        background-color: #92D197;
+    }
+}
+
+a,
+button {
+    &.button {
+        height: 40px;
+        outline: #E4E4E4;
+        border: none;
+        border-radius: 5px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    &.swal-button--confirm {
+        background: #5B439D;
+
+        &:hover {
+            background: #92D197 !important;
+        }
+    }
+
+    &.button-big {
+        height: 60px;
+        padding-left: 40px;
+        padding-right: 40px;
+        font-size: 15px !important;
+    }
+
+    &.button-outline {
+        background: #F5F5F5 !important;
+        color: black !important;
+        box-shadow: 0px !important;
+    }
+
+    &.button-primary {
+        background: #5B439D;
+        color: white;
+
+        span {
+            font-family: $mediumFont;
+        }
+
+        // opacity: .9;
+        font-size: 14px;
+        box-shadow: 0 3px 6px rgba(91, 67, 157, 0.21) !important;
+
+        &:hover {
+            opacity: .8;
+            transition: opacity all cubic-bezier(0.075, 0.82, 0.165, 1);
+        }
+    }
+
+    &.button-outline {
+        font-size: 14px;
+
+        span {
+            font-family: $mediumFont;
+        }
+    }
+
+    &.button-social {
+        font-size: 14px;
+        display: flex;
+        margin: 0 auto;
+        background: white;
+        font-family: $mediumFont !important;
+        justify-content: space-between;
+        align-items: center;
+        width: 300px;
+        height: 55px !important;
+        border: 3px solid #E4E4E4;
+
+        span {
+            font-family: $mediumFont !important;
+
+            &:nth-child(2) {
+                opacity: .7;
+            }
+        }
+
+        img {
+            width: 50%;
+        }
+    }
+}
